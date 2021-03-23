@@ -1,4 +1,4 @@
-# Pesentation of my Theories
+# Presentation of my Theories
 Hi, this is a working in progress of my Theories and Ideas.
 
 # LICENSE
